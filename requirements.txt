@@ -43,3 +43,5 @@ uvicorn
 
 # Type Checking / Validation
 typing-extensions
+
+streamlit
