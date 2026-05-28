@@ -1,0 +1,45 @@
+
+# Core LangChain
+langchain
+langchain-core
+langchain-community
+langchain-google-genai
+langgraph
+
+# Gemini API
+google-generativeai
+
+# Tavily Search Tool
+tavily-python
+
+# Environment Variables
+python-dotenv
+
+# Web Scraping
+beautifulsoup4
+requests
+lxml
+
+# Async Support
+aiohttp
+httpx
+
+# React Agent / Tool Calling
+pydantic
+
+# Token Handling
+tiktoken
+
+# Logging & Utilities
+rich
+
+# Optional Development Utilities
+ipykernel
+jupyter
+
+# Fast API Backend (Optional)
+fastapi
+uvicorn
+
+# Type Checking / Validation
+typing-extensions
